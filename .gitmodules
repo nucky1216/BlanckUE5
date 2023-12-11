@@ -1,0 +1,3 @@
+[submodule "Content/VO/AGV_Carrier"]
+	path = Content/VO/AGV_Carrier
+	url = git@github.com:nucky1216/AGVAnim.git
